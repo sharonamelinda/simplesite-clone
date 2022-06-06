@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(jo.jpg);
+    background-size: cover;
+}
+#lang{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.main{
+    margin: 15% auto;
+}
+p{
+    font-size: 45px;
+    color: white;
+}
+h2{
+    margin: 20px auto;
+    color: white;
+}
+#mulai{
+    margin: 20px auto;
+    border-radius: 10px;
+    border-color: white;
+    color: white;
+    width: 150px;
+    height: 50px;
+    background-color: maroon;
+}
+#masuk{
+    color: white;
+    border-color: white;
+    margin-right: 20px;
+}
